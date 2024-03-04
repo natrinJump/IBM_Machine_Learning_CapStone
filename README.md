@@ -9,6 +9,8 @@ Machine Learning has emerged as a transformative force in the realm of data-driv
 ## Dataset
 * Dataset contains 307 datapoints.
 * Dataset contains the features: 'COURSE_ID', 'TITLE', 'Database', 'Python', 'CloudComputing','DataAnalysis', 'Containers', 'MachineLearning', 'ComputerVision','DataScience', 'BigData', 'Chatbot', 'R', 'BackendDev', 'FrontendDev','Blockchain'.
+
+  
 ![image](https://github.com/natrinJump/IBM_Machine_Learning_Recommender_System/assets/143831822/38175328-2c04-4f7c-82b8-eac2e2ec24cd)
 
 
