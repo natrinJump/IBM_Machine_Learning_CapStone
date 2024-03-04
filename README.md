@@ -10,11 +10,11 @@ Machine Learning has emerged as a transformative force in the realm of data-driv
 
 ## 01-Exploratory Data Analysis
 ### Objectives
-* * Identify keywords in course titles using a WordCloud
-* * Calculate the summary statistics and visualizations of the online course content dataset
-* * Determine popular course genre
-* * Calculate the summary statistics and create visualizations of the online course enrollment dataset
-* * Identify courses with the greatest number of enrolled students
+* Identify keywords in course titles using a WordCloud
+* Calculate the summary statistics and visualizations of the online course content dataset
+* Determine popular course genre
+* Calculate the summary statistics and create visualizations of the online course enrollment dataset
+* Identify courses with the greatest number of enrolled students
 
 
 
